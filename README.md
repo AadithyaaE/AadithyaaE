@@ -1,31 +1,38 @@
-Aadithyaa E
+# Hi, I'm Aadithyaa E 👋
 
-B.Tech Computer Science Engineering (Cybersecurity) at Shiv Nadar University Chennai, expected 2028. Based in Chennai, India.
+I'm pursuing a **B.Tech in Computer Science Engineering (Cybersecurity)** at Shiv Nadar University Chennai, graduating in 2028.
 
-I build full-stack applications with Python and TypeScript backends, React frontends, and LLM-backed features. I am looking for software engineering internships.
+I build full-stack applications using Python, TypeScript, React, and FastAPI, with an interest in AI-powered tools and backend engineering. I'm currently looking for **software engineering internships**.
 
-Skills
-	
-Languages	Python, TypeScript, JavaScript
-Backend	FastAPI, SQLAlchemy, Alembic, PostgreSQL, MongoDB, WebSockets
-Frontend and mobile	React, Vite, React Native (Expo)
-AI and data	Google Gemini, LangChain, ChromaDB, sentence-transformers
-Infrastructure	Docker, AWS S3
-Featured projects
-CashPilot AI
+## 🛠️ Skills
 
-Cash-flow management for small businesses. Upload an invoice (PDF, JPG or PNG), Gemini extracts the fields for review, and the app ranks payables by urgency, projects cash runway, simulates what-if expenses, and generates recommendations from the user's own numbers.
+| Category | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, Java, C++, SQL |
+| Backend | FastAPI, SQLAlchemy, Alembic, WebSockets |
+| Frontend & Mobile | React, Vite, React Native, Expo |
+| Databases | PostgreSQL, MongoDB, MySQL, ChromaDB |
+| AI / ML | Google Gemini, LangChain, sentence-transformers, RAG |
+| Tools & Cloud | Docker, AWS S3, Git, GitHub Actions |
 
-FastAPI PostgreSQL Alembic AWS S3 Docker React TypeScript Gemini
+## 🚀 Featured Projects
 
-CampusRide
+### [CashPilot AI](https://github.com/AadithyaaE/CashFlow)
+AI-assisted cash-flow management for small businesses. Extracts invoice details with Gemini, prioritizes payables, forecasts cash runway, and supports what-if expense scenarios.
 
-A college bus commute assistant with a student web app, an admin control-room web app, and a React Native/Expo driver app, backed by one FastAPI and MongoDB service with a WebSocket update channel. It runs on deterministic synthetic data with simulated GPS, built as a Smart India Hackathon 2026 prototype.
+`FastAPI` `PostgreSQL` `React` `TypeScript` `Gemini` `AWS S3` `Docker`
 
-FastAPI MongoDB React React Native WebSockets Leaflet
+### [CampusRide](https://github.com/AadithyaaE/campusride)
+A college bus commute prototype with student and admin web apps, plus a React Native/Expo driver app. Uses FastAPI, MongoDB, WebSockets, and simulated GPS.
 
-RepoMind
+`FastAPI` `MongoDB` `React` `React Native` `Expo` `WebSockets`
 
-Ask questions about any public GitHub repository. The backend clones and chunks the repo, embeds it locally into ChromaDB, and answers with Gemini 2.5 Flash, returning the source files behind each answer.
+### [RepoMind](https://github.com/AadithyaaE/RepoMind)
+A tool for asking questions about public GitHub repositories. It indexes code with local embeddings and ChromaDB, then uses Gemini to generate answers with source-file references.
 
-FastAPI React LangChain ChromaDB Gemini
+`FastAPI` `React` `LangChain` `ChromaDB` `Gemini`
+
+---
+
+📍 Chennai, India
+
